@@ -1,5 +1,5 @@
 source:      .
-destination: ./_site
+destination: ./docs
 plugin_dir:  ./_plugins
 layouts_dir: ./_layouts
 
