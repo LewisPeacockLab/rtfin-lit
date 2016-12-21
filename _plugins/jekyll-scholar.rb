@@ -1,0 +1,5 @@
+# require 'jekyll-scholar'
+require 'jekyll/scholar'
+# require 'jekyll/scholar/extras'
+# require '/Library/Ruby/Gems/2.0.0/gems/jekyll-scholar-5.8.5/lib/jekyll/scholar.rb'
+# require_all '/Library/Ruby/Gems/2.0.0/gems/jekyll-scholar-5.8.5/'

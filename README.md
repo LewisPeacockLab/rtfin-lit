@@ -1,2 +1,1 @@
-# rtfin-lit
-Static site compiling real-time functional imaging and neurofeedback literature
+Literature for real-time functional imaging and neurofeedback.
