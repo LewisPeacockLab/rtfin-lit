@@ -21,7 +21,24 @@ no_type_sidebar: false
     </div>
 
 <div class="pure-u-1 no-bullet">
-{% bibliography_year %}
+{% bibliography_byimaging --query fmri %}
 </div>
+
+<div class="pure-u-1 no-bullet">
+{% bibliography_byimaging --query eeg %}
+</div>
+
+<div class="pure-u-1 no-bullet">
+{% bibliography_byimaging --query fnirs %}
+</div>
+
+<div class="pure-u-1 no-bullet">
+{% bibliography_byimaging --query meg %}
+</div>
+
+<div class="pure-u-1 no-bullet">
+{% bibliography_byimaging --query mixed %}
+</div>
+
 </div>
 

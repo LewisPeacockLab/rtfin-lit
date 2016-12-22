@@ -23,6 +23,7 @@
     display: inline-block;
     vertical-align: top;
     width: 88%;
+    margin: 0 0 10px 0;
 
 }
 
@@ -69,7 +70,96 @@ ol {
     top: 0px;
 
 }
+/* Custom CSL Type icons */
+.csl-point-neurofeedback-icon {
+    position: relative;
+}
+.csl-point-neurofeedback-icon:before {
+    content: "\1F4CA";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #000000;
+    font-size: 18px;
+    margin-left: 0em;
+    padding-right: 1em;
+    padding-top: 0.22em;
+    position: relative;
+    top: 0px;
+}
 
+.csl-point-clinical-icon {
+    position: relative;
+}
+.csl-point-clinical-icon:before {
+    content: "\1F48A";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #000000;
+    font-size: 18px;
+    margin-left: 0em;
+    padding-right: 1em;
+    padding-top: 0.22em;
+    position: relative;
+    top: 0px;
+}
+
+.csl-point-bci-icon {
+    position: relative;
+}
+.csl-point-bci-icon:before {
+    content: "\1F579";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #000000;
+    font-size: 18px;
+    margin-left: 0em;
+    padding-right: 1em;
+    padding-top: 0.22em;
+    position: relative;
+    top: 0px;
+}
+
+.csl-point-review-icon {
+    position: relative;
+}
+.csl-point-review-icon:before {
+    content: "\1F4C4";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #000000;
+    font-size: 18px;
+    margin-left: 0em;
+    padding-right: 1em;
+    padding-top: 0.22em;
+    position: relative;
+    top: 0px;
+}
+
+.csl-point-methods-icon {
+    position: relative;
+}
+.csl-point-methods-icon:before {
+    content: "\1F4C8";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #000000;
+    font-size: 18px;
+    margin-left: 0em;
+    padding-right: 1em;
+    padding-top: 0.22em;
+    position: relative;
+    top: 0px;
+}
 
 /* CSL Type icons */
 .csl-point-journal-icon {
@@ -82,7 +172,8 @@ ol {
     font-style: normal;
     font-weight: normal;
     text-decoration: inherit;
-    color: #660066;
+    /*color: #660066;*/
+    color: #FF0099;
 /*FF0099; */
     font-size: 18px;
     margin-left: 0em;

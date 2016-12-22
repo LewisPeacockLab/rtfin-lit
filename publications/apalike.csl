@@ -195,7 +195,7 @@
     </choose>
   </macro>
   <macro name="title-plus-extra">
-    <text macro="title"/>
+    <text macro="title" font-weight="bold"/>
     <choose>
       <if type="report thesis" match="any">
         <group prefix=" (" suffix=")" delimiter=", ">

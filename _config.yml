@@ -30,11 +30,13 @@ scholar:
   source: ./publications
   bibliography: rtfin.bib
   details_dir: ./publications/details
+  reference_tagname: "span"
+  bibliography_template: custom_ref
   # query: "@*[public!=no]"
 
   # Scholar has changed the way it renders bib tags
   # Need to look at more at the defaults.
-  bibliography_list_tag: "ul"
+  bibliography_list_tag: "ul.no-bullet"
 
 # jekyll-scholar-extras configurations
 # TODO Options need to be reworked through
