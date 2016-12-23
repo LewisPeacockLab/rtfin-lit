@@ -32,6 +32,7 @@ scholar:
   details_dir: ./publications/details
   reference_tagname: "span"
   bibliography_template: custom_ref
+  bibliography_class: list
   # query: "@*[public!=no]"
 
   # Scholar has changed the way it renders bib tags

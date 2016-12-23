@@ -1,5 +1,9 @@
 /* This is a CSS file for CSL blocks for paper formatting. */
 
+.search {
+    margin: 0 0 7px 0;
+}
+
 .csl-box {
     display: inline-block;
     width: 100%;

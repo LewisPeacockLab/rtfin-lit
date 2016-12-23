@@ -1,6 +1,10 @@
 ---
 ---
-<div class="csl-block csl-content">{{ reference }}<br>
+<div class="csl-block csl-content">
+{% if entry.new %}
+&#x1F6A8;&nbsp; 
+{% endif %}
+<span class="reference">{{ reference }}</span><br>
 {% if entry.url %}
 <div class="pure-button csl-pdf"><a href={{ entry.url }}>Link</a></div>
 {% endif %}
