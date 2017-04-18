@@ -31,6 +31,10 @@ body,
     font-weight: 300;
 }
 
+@media (max-width:1000px){
+.pure-g-r{font-size: 175%;}
+}
+
 /* *********************************************** */
 /* Logos */
 /* *********************************************** */
@@ -276,6 +280,11 @@ li.scgpsim {
     text-color:white;
     font-family: 'Open Sans Regular';
 }
+
+@media (max-width:1000px){
+#menu{font-size: 175%;}
+}
+
 #menu a {
     color: #999;
     white-space: normal;
@@ -510,6 +519,7 @@ dd {
     /*font-family: inherit;*/
   font-family: 'Open Sans Regular';
 }
+
 a.pure-button-primary {
     color: white;
 }
