@@ -1,0 +1,1 @@
+cat ./publications/*.bib > ./publications/compiled/rtfin.bib
