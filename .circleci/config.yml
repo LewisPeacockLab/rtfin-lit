@@ -62,7 +62,7 @@ jobs:
     - run: rm -rf jekyll-scholar-extras
     - run: gem install unicode_utils
     - run: ./scripts/compile-bib-years.sh
-    - run: jekyll build
+    - run: bundle exec jekyll build
     # Save dependency cache
     - save_cache:
         key: v1-dep-{{ .Branch }}-{{ epoch }}
