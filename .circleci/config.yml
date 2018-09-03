@@ -57,10 +57,10 @@ jobs:
         - v1-dep-
     # This is based on your 1.0 configuration file or project settings
     - run: bundle install
-    - run: git clone https://github.com/efunn/jekyll-scholar-extras.git
-    - run: cd ./jekyll-scholar-extras && gem build ./jekyll-scholar-extras.gemspec && gem install ./jekyll-scholar-extras-0.1.3.gem
-    - run: rm -rf jekyll-scholar-extras
-    - run: gem install unicode_utils
+    # - run: git clone https://github.com/efunn/jekyll-scholar-extras.git
+    # - run: cd ./jekyll-scholar-extras && gem build ./jekyll-scholar-extras.gemspec && gem install ./jekyll-scholar-extras-0.1.3.gem
+    # - run: rm -rf jekyll-scholar-extras
+    # - run: gem install unicode_utils
     - run: ./scripts/compile-bib-years.sh
     - run: bundle exec jekyll build
     # Save dependency cache
