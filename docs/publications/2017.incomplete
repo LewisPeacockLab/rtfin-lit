@@ -1,0 +1,725 @@
+% 2017 
+
+@article{lorenz2017neuroadaptive,
+  title={Neuroadaptive {Bayesian} optimization and hypothesis testing},
+  author={Lorenz, Romy and Hampshire, Adam and Leech, Robert},
+  journal={Trends in Cognitive Sciences},
+  year={2017},
+  publisher={Elsevier},
+  imaging={fmri},
+  application={methods},
+  new={false},
+  url={http://www.sciencedirect.com/science/article/pii/S1364661317300098}
+}
+
+@article{lorenz2017dissociating,
+  title={Dissociating frontoparietal brain networks with neuroadaptive {Bayesian} optimization},
+  author={Lorenz, Romy and Violante, Ines R and Monti, Ricardo Pio and Montana, Giovanni and Hampshire, Adam and Leech, Robert},
+  journal={bioRxiv},
+  pages={128678},
+  year={2017},
+  publisher={Cold Spring Harbor Labs Journals},
+  imaging={fmri},
+  application={neurofeedback},
+  new={false},
+  url={http://biorxiv.org/content/early/2017/04/19/128678}
+}
+
+@article{enriquez2017eeg,
+  title={EEG-neurofeedback as a tool to modulate cognition and behaviour: a review tutorial},
+  author={Enriquez-Geppert, Stefanie and Huster, Ren{\'e} J and Herrmann, Christoph S},
+  journal={Frontiers in Human Neuroscience},
+  volume={11},
+  pages={51},
+  year={2017},
+  publisher={Frontiers},
+  imaging={eeg},
+  application={review}, 
+  keywords={eeg, nf, bci, review},
+  url={http://journal.frontiersin.org/article/10.3389/fnhum.2017.00051/full},
+  new={false}
+}
+
+@article{mcdonald2017real,
+  title={The real-time fMRI neurofeedback based stratification of Default Network Regulation Neuroimaging data repository},
+  author={McDonald, Amalia R and Muraskin, Jordan and Van Dam, Nicholas T and Froehlich, Caroline and Puccio, Benjamin and Pellman, John and Bauer, Clemens CC and Akeyson, Alexis and Breland, Melissa M and Calhoun, Vince D and others},
+  journal={NeuroImage},
+  volume={146},
+  pages={157--170},
+  year={2017},
+  publisher={Elsevier},
+  imaging={fmri},
+  application={methods}, 
+  keywords={rt fmri, default model network, data sharing},
+  url={http://biorxiv.org/content/biorxiv/early/2016/10/31/075275.full.pdf},
+  new={false}
+}
+
+@article{zotev2017real,
+  title={Real-time fMRI neurofeedback of the mediodorsal and anterior thalamus enhances correlation between thalamic BOLD activity and alpha EEG rhythm},
+  author={Zotev, Vadim and Misaki, Masaya and Phillips, Raquel and Wong, Chung Ki and Bodurka, Jerzy},
+  journal={arXiv preprint arXiv:1702.04195},
+  year={2017},
+  imaging={mixed},
+  application={methods}, 
+  keywords={thalamus, alpha rhythm, memory, neurofeedback, real-time fmri, eeg-fmri, mediodorsal nucleus, anterior nucleus, precuneus, dorsal striatum},
+  url={https://arxiv.org/pdf/1702.04195.pdf},
+  new={false}
+}
+
+@article{nicholson2017neurobiology,
+  title={The neurobiology of emotion regulation in posttraumatic stress disorder: Amygdala downregulation via real-time fMRI neurofeedback},
+  author={Nicholson, Andrew A and Rabellino, Daniela and Densmore, Maria and Frewen, Paul A and Paret, Christian and Kluetsch, Rosemarie and Schmahl, Christian and Th{\'e}berge, Jean and Neufeld, Richard WJ and McKinnon, Margaret C and others},
+  journal={Human Brain Mapping},
+  volume={38},
+  number={1},
+  pages={541--560},
+  year={2017},
+  publisher={Wiley Online Library},
+  imaging={fmri},
+  application={clinical}, 
+  keywords={amygdala, ptsd, gppi, dcm, dorsolateral and ventrolateral prefrontal cortex},
+  url={http://onlinelibrary.wiley.com/doi/10.1002/hbm.23402/full},
+  new={false}
+}
+
+@article{cortese2017decoded,
+  title={Decoded fMRI neurofeedback can induce bidirectional confidence changes within single participants},
+  author={Cortese, Aurelio and Amano, Kaoru and Koizumi, Ai and Lau, Hakwan and Kawato, Mitsuo},
+  journal={NeuroImage},
+  volume={149},
+  pages={323--337},
+  year={2017},
+  publisher={Elsevier},
+  imaging={fmri},
+  application={clinical}, 
+  keywords={fmri, nf, mvpa, nonlinear modeling, confidence},
+  url={http://www.sciencedirect.com/science/article/pii/S1053811917300915},
+  new={false}
+}
+
+@article{zilverstand2017fmri,
+  title={fMRI Neurofeedback Training for Increasing Anterior Cingulate Cortex Activation in Adult Attention Deficit Hyperactivity Disorder. An Exploratory Randomized, Single-Blinded Study},
+  author={Zilverstand, Anna and Sorger, Bettina and Slaats-Willemse, Dorine and Kan, Cornelis C and Goebel, Rainer and Buitelaar, Jan K},
+  journal={PLoS One},
+  volume={12},
+  number={1},
+  pages={e0170795},
+  year={2017},
+  publisher={Public Library of Science},
+  imaging={fmri},
+  application={clinical}, 
+  keywords={adhd, dacc, fmri},
+  url={http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170795},
+  new={false}
+}
+
+@article{blume2017nirs,
+  title={NIRS-based neurofeedback training in a virtual reality classroom for children with attention-deficit/hyperactivity disorder: study protocol for a randomized controlled trial},
+  author={Blume, Friederike and Hudak, Justin and Dresler, Thomas and Ehlis, Ann-Christine and K{\"u}hnhausen, Jan and Renner, Tobias J and Gawrilow, Caterina},
+  journal={Trials},
+  volume={18},
+  number={1},
+  pages={41},
+  year={2017},
+  publisher={BioMed Central},
+  imaging={mixed},
+  application={clinical}, 
+  keywords={adhd, biofeedback, vr, near infrared spectroscopy, electromyography, randomlized controlled trail, school performance},
+  url={https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-016-1769-3},
+  new={false}
+}
+
+@article{liu2017optical,
+  title={Optical-imaging-based neurofeedback to enhance therapeutic intervention in adolescents with autism: methodology and initial data},
+  author={Liu, Ning and Cliffer, Sarit and Pradhan, Anjali H and Lightbody, Amy and Hall, Scott S and Reiss, Allan L},
+  journal={Neurophotonics},
+  volume={4},
+  number={1},
+  pages={011003--011003},
+  year={2017},
+  publisher={International Society for Optics and Photonics},
+  imaging={fnirs},
+  application={clinical}, 
+  keywords={autism, fnir},
+  url={http://neurophotonics.spiedigitallibrary.org/article.aspx?articleid=2545884},
+  new={false}
+}
+
+@article{kober2017upper,
+  title={Upper Alpha Based Neurofeedback Training in Chronic Stroke: Brain Plasticity Processes and Cognitive Effects},
+  author={Kober, Silvia Erika and Schweiger, Daniela and Reichert, Johanna Louise and Neuper, Christa and Wood, Guilherme},
+  journal={Applied Psychophysiology and Biofeedback},
+  pages={1--15},
+  year={2017},
+  publisher={Springer},
+  imaging={eeg},
+  application={clinical}, 
+  keywords={cortical reorganization, nf, memory, stroke recovery},
+  url={http://link.springer.com/article/10.1007/s10484-017-9353-5},
+  new={false}
+}
+
+@article{mirifar2017neurofeedback,
+  title={Neurofeedback as Supplementary Training for Optimizing Athletes’ Performance: A Systematic Review with Implications for Future Research},
+  author={Mirifar, Arash and Beckmann, J{\"u}rgen and Ehrlenspiel, Felix},
+  journal={Neuroscience \& Biobehavioral Reviews},
+  year={2017},
+  publisher={Elsevier},
+  imaging={mixed},
+  application={review}, 
+  keywords={sports performance, cognition, affect, athlete},
+  url={http://www.sciencedirect.com/science/article/pii/S0149763416304869},
+  new={false}
+}
+
+@article{moreno2017randomized,
+  title={A Randomized Controlled Trial to Examine the Posttreatment Efficacy of Neurofeedback, Behavior Therapy, and Pharmacology on ADHD Measures},
+  author={Moreno-Garc{\'\i}a, Inmaculada and Meneres-Sancho, Susana and Camacho-Vara de Rey, Carlos and Servera, Mateu},
+  journal={Journal of Attention Disorders},
+  pages={1087054717693371},
+  year={2017},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA},
+  imaging={mixed},
+  application={clinical}, 
+  keywords={nf, behavior therapy, pharmacology, adhd, iva, cpt},
+  url={http://journals.sagepub.com/doi/pdf/10.1177/1087054717693371},
+  new={false}
+}
+
+@article{friesen2017combined,
+  title={Combined Action Observation and Motor Imagery Neurofeedback for Modulation of Brain Activity},
+  author={Friesen, Christopher L and Bardouille, Timothy and Neyedli, Heather F and Boe, Shaun G},
+  journal={Frontiers in Human Neuroscience},
+  volume={10},
+  pages={692},
+  year={2017},
+  publisher={Frontiers},
+  imaging={eeg},
+  application={clinical}, 
+  keywords={motor imagery, imagined imitation},
+  url={http://journal.frontiersin.org/article/10.3389/fnhum.2016.00692/full},
+  new={false}
+}
+
+@article{emmert2017continuous,
+  title={Continuous vs. intermittent neurofeedback to regulate auditory cortex activity of tinnitus patients using real-time fMRI-A pilot study},
+  author={Emmert, Kirsten and Kopel, Rotem and Koush, Yury and Maire, Raphael and Senn, Pascal and Van De Ville, Dimitri and Haller, Sven},
+  journal={NeuroImage: Clinical},
+  year={2017},
+  publisher={Elsevier},
+  imaging={fmri},
+  application={clinical}, 
+  keywords={contunuous, intermittent, auditory cortex, tinnitus},
+  url={http://www.sciencedirect.com/science/article/pii/S2213158216302601},
+  new={false}
+}
+
+@article{mennella2017frontal,
+  title={Frontal alpha asymmetry neurofeedback for the reduction of negative affect and anxiety},
+  author={Mennella, Rocco and Patron, Elisabetta and Palomba, Daniela},
+  journal={Behaviour Research and Therapy},
+  year={2017},
+  publisher={Elsevier},
+  imaging={eeg},
+  application={clinical}, 
+  keywords={frontal alpha asymmetry, right prefrontal cortex, negative affect, anxiety},
+  url={http://www.sciencedirect.com/science/article/pii/S0005796717300372},
+  new={false}
+}
+
+@article{mohagheghi2017randomized,
+  title={A Randomized Trial of Comparing the Efficacy of Two Neurofeedback Protocols for Treatment of Clinical and Cognitive Symptoms of ADHD: Theta Suppression/Beta Enhancement and Theta Suppression/Alpha Enhancement},
+  author={Mohagheghi, Arash and Amiri, Shahrokh and Moghaddasi Bonab, Nafiseh and Chalabianloo, Gholamreza and Noorazar, Seyed Gholamreza and Tabatabaei, Seyed Mahmoud and Farhang, Sara},
+  journal={BioMed Research International},
+  volume={2017},
+  year={2017},
+  publisher={Hindawi Publishing Corporation},
+  imaging={eeg},
+  application={clinical}, 
+  keywords={adhd, theta suppression, beta enhanvement, alpha enhancement},
+  url={https://www.hindawi.com/journals/bmri/2017/3513281/abs/},
+  new={false}
+}
+
+@article{alkoby2017can,
+  title={Can we predict who will respond to neurofeedback? A review of the inefficacy problem and existing predictors for successful EEG neurofeedback learning},
+  author={Alkoby, O and Abu-Rmileh, A and Shriki, O and Todder, D},
+  journal={Neuroscience},
+  year={2017},
+  publisher={Elsevier},
+  imaging={eeg},
+  application={review}, 
+  keywords={nf inefficacy, bci, eeg},
+  url={http://www.sciencedirect.com/science/article/pii/S0306452216307576},
+  new={false}
+}
+
+@article{fielenbach2017neurofeedback,
+  title={Neurofeedback as a Treatment for Impulsivity in a Forensic Psychiatric Population With Substance Use Disorder: Study Protocol of a Randomized Controlled Trial Combined With an N-of-1 Clinical Trial},
+  author={Fielenbach, Sandra and Donkers, Franc CL and Spreen, Marinus and Bogaerts, Stefan},
+  journal={JMIR research protocols},
+  volume={6},
+  number={1},
+  pages={e13},
+  year={2017},
+  publisher={JMIR Publications Inc., Toronto, Canada},
+  imaging={eeg},
+  application={clinical}, 
+  keywords={impulsive behavior, substance use disorders, craving, offenders},
+  url={https://www.researchprotocols.org/2017/1/e13/},
+  new={false} 
+}
+
+@article{alves2017implicit,
+  title={Implicit Learning of a Finger Motor Sequence by Patients with Cerebral Palsy After Neurofeedback},
+  author={Alves-Pinto, Ana and Turova, Varvara and Blumenstein, Tobias and Hantuschke, Conny and Lampe, Ren{\'e}e},
+  journal={Applied psychophysiology and biofeedback},
+  pages={1--11},
+  year={2017},
+  publisher={Springer},
+  imaging={eeg},
+  application={clinical}, 
+  keywords={serial reaction time task, implicit learning, alpha rhythm, cerebral palsy},
+  url={http://link.springer.com/article/10.1007/s10484-017-9349-1},
+  new={false} 
+}
+
+@article{lee2017additive,
+  title={Additive effects of neurofeedback on the treatment of ADHD: A randomized controlled study},
+  author={Lee, Eun-Jeong and Jung, Chul-Ho},
+  journal={Asian Journal of Psychiatry},
+  volume={25},
+  pages={16--21},
+  year={2017},
+  publisher={Elsevier},
+  imaging={eeg},
+  application={clinical}, 
+  keywords={adhd, medicaiton, randomized controlled trail},
+  url={http://www.sciencedirect.com/science/article/pii/S1876201816303938},
+  new={false}
+}
+
+@inproceedings{kaur2017toward,
+  title={Toward EEG Spectral Analysis of Tomographic Neurofeedback for Depression},
+  author={Kaur, Chamandeep and Singh, Preeti},
+  booktitle={Proceeding of International Conference on Intelligent Communication, Control and Devices},
+  pages={97--103},
+  year={2017},
+  organization={Springer},
+  imaging={eeg},
+  application={methods}, 
+  keywords={human-machine interface, z-scores, sloreta},
+  url={http://link.springer.com/chapter/10.1007/978-981-10-1708-7_10},
+  new={false}
+}
+
+@inproceedings{kalaivani2017neurofeedback,
+  title={Neurofeedback training for elderly with increased stress level},
+  author={Kalaivani, M and Jeyalakshmi, MS and Aarthy, M Thanga},
+  booktitle={Intelligent Systems and Control (ISCO), 2017 11th International Conference on},
+  pages={129--133},
+  year={2017},
+  organization={IEEE},
+  imaging={eeg},
+  application={clinical}, 
+  keywords={stress, visualization, games, beta, theta, elderly},
+  url={http://ieeexplore.ieee.org/abstract/document/7855967/?reload=true},
+  new={false}
+}
+
+@article{heidari2017effect,
+  title={The Effect of Modified Alpha-Theta Neurofeedback Protocol on Instant Craving in Opioid Users},
+  author={Heidari, Z and Taremian, F and Khalatbari, J},
+  journal={ZUMS Journal},
+  volume={25},
+  number={109},
+  pages={130--139},
+  year={2017},
+  publisher={ZUMS Journal},
+  imaging={eeg},
+  application={clinical}, 
+  keywords={opioid dependency, craving, methadone treatment, alpha-theta protocol},
+  url={http://zums.ac.ir/journal/browse.php?a_id=4104&sid=1&slc_lang=en},
+  new={false}
+}
+
+@article{thibaultneurofeedback,
+  title={Neurofeedback or Neuroplacebo?},
+  author={Thibault, Robert T and Lifshitz, Michael and Raz, Amir},
+  year={2017},
+  imaging={mixed},
+  application={review}, 
+  keywords={nf, sham nf, superplacebo},
+  url={https://s3.ca-central-1.amazonaws.com/razlab.org/publications/Brain2017_PostPrint_ThibaultLifshitzRaz.docx.pdf},
+  new={false}
+}
+
+
+@article{sitaram_closed-loop_2017,
+  title = {Closed-loop brain training: the science of neurofeedback},
+  volume = {18},
+  issn = {1471-003X, 1471-0048},
+  shorttitle = {Closed-loop brain training},
+  url = {http://www.nature.com/articles/nrn.2016.164},
+  doi = {10.1038/nrn.2016.164},
+  language = {en},
+  number = {2},
+  urldate = {2018-05-23},
+  journal = {Nature Reviews Neuroscience},
+  author = {Sitaram, Ranganatha and Ros, Tomas and Stoeckel, Luke and Haller, Sven and Scharnowski, Frank and Lewis-Peacock, Jarrod and Weiskopf, Nikolaus and Blefari, Maria Laura and Rana, Mohit and Oblak, Ethan and Birbaumer, Niels and Sulzer, James},
+  month = feb,
+  year = {2017},
+  pages = {86--100}
+}
+
+@article{spetter_volitional_2017,
+  title = {Volitional regulation of brain responses to food stimuli in overweight and obese subjects: {A} real-time {fMRI} feedback study},
+  volume = {112},
+  issn = {0195-6663},
+  shorttitle = {Volitional regulation of brain responses to food stimuli in overweight and obese subjects},
+  url = {http://www.sciencedirect.com/science/article/pii/S0195666316305220},
+  doi = {10.1016/j.appet.2017.01.032},
+  urldate = {2018-05-23},
+  journal = {Appetite},
+  author = {Spetter, Maartje S. and Malekshahi, Rahim and Birbaumer, Niels and Lührs, Michael and van der Veer, Albert H. and Scheffler, Klaus and Spuckti, Sophia and Preissl, Hubert and Veit, Ralf and Hallschmid, Manfred},
+  month = may,
+  year = {2017},
+  keywords = {Neurofeedback, Dorsolateral prefrontal cortex, Obesity, Overweight, Real-time functional magnetic resonance imaging, Ventromedial prefrontal cortex},
+  pages = {188--195}
+}
+
+@article{koush_opennft:_2017,
+  title = {{OpenNFT}: {An} open-source {Python}/{Matlab} framework for real-time {fMRI} neurofeedback training based on activity, connectivity and multivariate pattern analysis},
+  volume = {156},
+  issn = {1053-8119},
+  shorttitle = {{OpenNFT}},
+  url = {http://www.sciencedirect.com/science/article/pii/S1053811917305050},
+  doi = {10.1016/j.neuroimage.2017.06.039},
+  urldate = {2018-05-23},
+  journal = {NeuroImage},
+  author = {Koush, Yury and Ashburner, John and Prilepin, Evgeny and Sladky, Ronald and Zeidman, Peter and Bibikov, Sergei and Scharnowski, Frank and Nikonorov, Artem and De Ville, Dimitri Van},
+  month = aug,
+  year = {2017},
+  keywords = {Neurofeedback, Real-time fMRI, Connectivity, Activity, Multivariate pattern analysis, OpenNFT},
+  pages = {489--503}
+}
+
+@article{watanabe_advances_2017,
+  title = {Advances in {fMRI} {Real}-{Time} {Neurofeedback}},
+  volume = {21},
+  issn = {1364-6613},
+  url = {http://www.sciencedirect.com/science/article/pii/S1364661317301985},
+  doi = {10.1016/j.tics.2017.09.010},
+  number = {12},
+  urldate = {2018-05-23},
+  journal = {Trends in Cognitive Sciences},
+  author = {Watanabe, Takeo and Sasaki, Yuka and Shibata, Kazuhisa and Kawato, Mitsuo},
+  month = dec,
+  year = {2017},
+  keywords = {decoded neurofeedback (DecNef), external reward, fMRI neurofeedback, functional connectivity-based neurofeedback (FCNef), implicit neurofeedback, multivariate analysis},
+  pages = {997--1010}
+}
+
+@article{yamashita_connectivity_2017,
+  title = {Connectivity {Neurofeedback} {Training} {Can} {Differentially} {Change} {Functional} {Connectivity} and {Cognitive} {Performance}},
+  volume = {27},
+  issn = {1460-2199},
+  doi = {10.1093/cercor/bhx177},
+  language = {eng},
+  number = {10},
+  journal = {Cerebral Cortex (New York, N.Y.: 1991)},
+  author = {Yamashita, Ayumu and Hayasaka, Shunsuke and Kawato, Mitsuo and Imamizu, Hiroshi},
+  month = oct,
+  year = {2017},
+  pmid = {28922830},
+  keywords = {functional connectivity, cognitive function, connectivity neurofeedback, functional magnetic resonance imaging (fMRI)},
+  pages = {4960--4970}
+}
+
+@article{young_altered_2018,
+  title = {Altered task-based and resting-state amygdala functional connectivity following real-time {fMRI} amygdala neurofeedback training in major depressive disorder},
+  volume = {17},
+  issn = {2213-1582},
+  url = {http://www.sciencedirect.com/science/article/pii/S2213158217303091},
+  doi = {10.1016/j.nicl.2017.12.004},
+  urldate = {2018-08-20},
+  journal = {NeuroImage: Clinical},
+  author = {Young, Kymberly D. and Siegle, Greg J. and Misaki, Masaya and Zotev, Vadim and Phillips, Raquel and Drevets, Wayne C. and Bodurka, Jerzy},
+  month = jan,
+  year = {2018},
+  keywords = {Amygdala, Depression, Functional connectivity, Neurofeedback, Positive memory recall, Resting-state},
+  pages = {691--703}
+}
+
+@inproceedings{makary_self-regulation_2017,
+  title = {Self-regulation of primary motor cortex activity with motor imagery induces functional connectivity modulation: {A} real-time {fMRI} neurofeedback study},
+  shorttitle = {Self-regulation of primary motor cortex activity with motor imagery induces functional connectivity modulation},
+  doi = {10.1109/EMBC.2017.8037769},
+  booktitle = {2017 39th {Annual} {International} {Conference} of the {IEEE} {Engineering} in {Medicine} and {Biology} {Society} ({EMBC})},
+  author = {Makary, M. M. and Seulgi, E. and Park, K.},
+  month = jul,
+  year = {2017},
+  keywords = {biomedical MRI, brain, Brain, brain activity, caudate nucleus, data acquisition, default mode network modulation, DMN functional connectivity, DMN modulation, feedback, Feedback amplifiers, functional connectivity modulation, functional magnetic resonance imaging, imagery tasks, M1 ROI, Magnetic resonance imaging, medical image processing, Modulation, motor execution, motor imagery, motor imagery training, Neurofeedback, neurofeedback training, neurophysiology, primary motor cortex, primary motor cortex activity, quasireal-time basis, rapid preprocessing, real-time fMRI neurofeedback, Real-time systems, resting-state functional run, rtfMRI-NFB, self-regulation, sensorimotor processing, sham feedback, subcortical sensory-motor areas, Training},
+  pages = {4147--4150}
+}
+
+@article{wang_potential_2017,
+  title = {The potential of real-time {fMRI} neurofeedback for stroke rehabilitation: {A} systematic review},
+  issn = {0010-9452},
+  shorttitle = {The potential of real-time {fMRI} neurofeedback for stroke rehabilitation},
+  url = {http://www.sciencedirect.com/science/article/pii/S0010945217303015},
+  doi = {10.1016/j.cortex.2017.09.006},
+  urldate = {2018-08-20},
+  journal = {Cortex},
+  author = {Wang, Tianlu and Mantini, Dante and Gillebert, Celine R.},
+  month = sep,
+  year = {2017},
+  keywords = {Brain injury, fMRI, Neurofeedback, Neuropsychology, Rehabilitation, Stroke}
+}
+
+@misc{ramot_direct_2017,
+  title = {Direct modulation of aberrant brain network connectivity through real-time {NeuroFeedback}},
+  copyright = {This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.},
+  url = {https://elifesciences.org/articles/28974},
+  language = {en},
+  urldate = {2018-08-20},
+  journal = {eLife},
+  author = {Ramot, Michal and Kimmich, Sara and Gonzalez-Castillo, Javier and Roopchansingh, Vinai and Popal, Haroon and White, Emily and Gotts, Stephen J. and Martin, Alex},
+  month = sep,
+  year = {2017},
+  doi = {10.7554/eLife.28974}
+}
+
+@article{sherwood_protocol_2017,
+  title = {A {Protocol} for the {Administration} of {Real}-{Time} {fMRI} {Neurofeedback} {Training}},
+  issn = {1940-087X},
+  url = {https://www.jove.com/video/55543/a-protocol-for-administration-real-time-fmri-neurofeedback},
+  doi = {10.3791/55543},
+  number = {126},
+  urldate = {2018-08-20},
+  journal = {JoVE (Journal of Visualized Experiments)},
+  author = {Sherwood, Matthew S. and Diller, Emily E. and Ey, Elizabeth and Ganapathy, Subhashini and Nelson, Jeremy T. and Parker, Jason G.},
+  month = aug,
+  year = {2017},
+  pages = {e55543--e55543}
+}
+
+@article{hohenfeld_cognitive_2017,
+  title = {Cognitive {Improvement} and {Brain} {Changes} after {Real}-{Time} {Functional} {MRI} {Neurofeedback} {Training} in {Healthy} {Elderly} and {Prodromal} {Alzheimer}’s {Disease}},
+  volume = {8},
+  issn = {1664-2295},
+  url = {https://www.frontiersin.org/articles/10.3389/fneur.2017.00384/full},
+  doi = {10.3389/fneur.2017.00384},
+  language = {English},
+  urldate = {2018-08-20},
+  journal = {Frontiers in Neurology},
+  author = {Hohenfeld, Christian and Nellessen, Nils and Dogan, Imis and Kuhn, Hanna and Müller, Christine and Papa, Federica and Ketteler, Simon and Goebel, Rainer and Heinecke, Armin and Shah, N. Jon and Schulz, Jörg B. and Reske, Martina and Reetz, Kathrin},
+  year = {2017},
+  keywords = {cognitive training, Mental Imagery, Neurofeedback, parahippocampus, plasticity, real-time fMRI, Visuo-spatial memory},
+}
+
+@article{koush_real-time_2017,
+  title = {Real-time {fMRI} data for testing {OpenNFT} functionality},
+  volume = {14},
+  issn = {2352-3409},
+  url = {http://www.sciencedirect.com/science/article/pii/S2352340917303517},
+  doi = {10.1016/j.dib.2017.07.049},
+  urldate = {2018-08-20},
+  journal = {Data in Brief},
+  author = {Koush, Yury and Ashburner, John and Prilepin, Evgeny and Sladky, Ronald and Zeidman, Peter and Bibikov, Sergei and Scharnowski, Frank and Nikonorov, Artem and Van De Ville, Dimitri},
+  month = oct,
+  year = {2017},
+  keywords = {Activity, Connectivity, Multivariate pattern analysis, Neurofeedback, OpenNFT, Real-time fMRI},
+  pages = {344--347}
+}
+
+@misc{goncalves_real-time_2017,
+  title = {Real-time functional magnetic resonance imaging in obsessive-compulsive disorder},
+  url = {https://www.dovepress.com/real-time-functional-magnetic-resonance-imaging-in-obsessive-compulsiv-peer-reviewed-article-NDT},
+  language = {English},
+  urldate = {2018-08-20},
+  journal = {Neuropsychiatric Disease and Treatment},
+  author = {Gonçalves, Óscar F. and Batistuzzo, Marcelo C. and Sato, João R.},
+  month = jul,
+  year = {2017},
+  doi = {10.2147/NDT.S121139}
+}
+
+@article{kopel_distributed_2017,
+  title = {Distributed {Patterns} of {Brain} {Activity} {Underlying} {Real}-{Time} {fMRI} {Neurofeedback} {Training}},
+  volume = {64},
+  issn = {0018-9294},
+  doi = {10.1109/TBME.2016.2598818},
+  number = {6},
+  journal = {IEEE Transactions on Biomedical Engineering},
+  author = {Kopel, R. and Emmert, K. and Scharnowski, F. and Haller, S. and Ville, D. Van De},
+  month = jun,
+  year = {2017},
+  keywords = {Adult, auditory cortex, Auditory Cortex, Basal ganglia, Biological system modeling, biomedical MRI, brain, brain activity, Brain Mapping, Brain modeling, coactivation, Computer Systems, functional networks, Humans, insula, Magnetic Resonance Imaging, Mathematical model, multivariate decoding model, Nerve Net, neurofeedback, Neurofeedback, neurofeedback (NF), neurophysiology, Noise measurement, real-time fMRI neurofeedback training, real-time functional magnetic resonance imaging, real-time functional magnetic resonance imaging (rt-fMRI), Reproducibility of Results, Sensitivity and Specificity, Spatio-Temporal Analysis, thalamus, Training},
+  pages = {1228--1237}
+}
+
+@article{young_randomized_2017,
+  title = {Randomized {Clinical} {Trial} of {Real}-{Time} {fMRI} {Amygdala} {Neurofeedback} for {Major} {Depressive} {Disorder}: {Effects} on {Symptoms} and {Autobiographical} {Memory} {Recall}},
+  volume = {174},
+  issn = {0002-953X},
+  shorttitle = {Randomized {Clinical} {Trial} of {Real}-{Time} {fMRI} {Amygdala} {Neurofeedback} for {Major} {Depressive} {Disorder}},
+  url = {https://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.2017.16060637},
+  doi = {10.1176/appi.ajp.2017.16060637},
+  number = {8},
+  urldate = {2018-08-20},
+  journal = {American Journal of Psychiatry},
+  author = {Young, Kymberly D. and Siegle, Greg J. and Zotev, Vadim and Phillips, Raquel and Misaki, Masaya and Yuan, Han and Drevets, Wayne C. and Bodurka, Jerzy},
+  month = apr,
+  year = {2017},
+  pages = {748--755}
+}
+
+@article{young_real-time_2017,
+  title = {Real-{Time} {Functional} {Magnetic} {Resonance} {Imaging} {Amygdala} {Neurofeedback} {Changes} {Positive} {Information} {Processing} in {Major} {Depressive} {Disorder}},
+  volume = {82},
+  issn = {0006-3223, 1873-2402},
+  url = {https://www.biologicalpsychiatryjournal.com/article/S0006-3223(17)31370-7/fulltext},
+  doi = {10.1016/j.biopsych.2017.03.013},
+  language = {English},
+  number = {8},
+  urldate = {2018-08-20},
+  journal = {Biological Psychiatry},
+  author = {Young, Kymberly D. and Misaki, Masaya and Harmer, Catherine J. and Victor, Teresa and Zotev, Vadim and Phillips, Raquel and Siegle, Greg J. and Drevets, Wayne C. and Bodurka, Jerzy},
+  month = oct,
+  year = {2017},
+  pmid = {28476207},
+  keywords = {Amygdala, Backward masking, Depression, Emotional processing, fMRI, Neurofeedback},
+  pages = {578--586}
+}
+
+@article{robineau_maintenance_2017,
+  title = {Maintenance of {Voluntary} {Self}-regulation {Learned} through {Real}-{Time} {fMRI} {Neurofeedback}},
+  volume = {11},
+  issn = {1662-5161},
+  url = {https://www.frontiersin.org/articles/10.3389/fnhum.2017.00131/full},
+  doi = {10.3389/fnhum.2017.00131},
+  language = {English},
+  urldate = {2018-08-20},
+  journal = {Frontiers in Human Neuroscience},
+  author = {Robineau, Fabien and Meskaldji, Djalel E. and Koush, Yury and Rieger, Sebastian W. and Mermoud, Christophe and Morgenthaler, Stephan and Van De Ville, Dimitri and Vuilleumier, Patrik and Scharnowski, Frank},
+  year = {2017},
+  keywords = {brain training, Maintenance, Neurofeedback, real-time functional magnetic resonance imaging (fMRI), Self-regulation, visual attention, visual imagery.}
+}
+
+@article{robineau_using_2017,
+  title = {Using real-time {fMRI} neurofeedback to restore right occipital cortex activity in patients with left visuo-spatial neglect: proof-of-principle and preliminary results},
+  volume = {0},
+  issn = {0960-2011},
+  shorttitle = {Using real-time {fMRI} neurofeedback to restore right occipital cortex activity in patients with left visuo-spatial neglect},
+  url = {https://doi.org/10.1080/09602011.2017.1301262},
+  doi = {10.1080/09602011.2017.1301262},
+  number = {0},
+  urldate = {2018-08-20},
+  journal = {Neuropsychological Rehabilitation},
+  author = {Robineau, Fabien and Saj, Arnaud and Neveu, Rémi and Ville, Dimitri Van De and Scharnowski, Frank and Vuilleumier, Patrik},
+  month = apr,
+  year = {2017},
+  pmid = {28385053},
+  keywords = {neurofeedback, real-time functional magnetic resonance imaging, self-regulation, Spatial neglect, visual cortex},
+  pages = {1--22},
+  annote = {https://doi.org/10.1080/09602011.2017.1301262}
+}
+
+@article{mano_how_2017,
+  title = {How to {Build} a {Hybrid} {Neurofeedback} {Platform} {Combining} {EEG} and {fMRI}},
+  volume = {11},
+  issn = {1662-453X},
+  url = {https://www.frontiersin.org/articles/10.3389/fnins.2017.00140/full},
+  doi = {10.3389/fnins.2017.00140},
+  language = {English},
+  urldate = {2018-08-20},
+  journal = {Frontiers in Neuroscience},
+  author = {Mano, Marsel and Lécuyer, Anatole and Bannier, Elise and Perronnet, Lorraine and Noorzadeh, Saman and Barillot, Christian},
+  year = {2017},
+  keywords = {Brain Signals, Electroencephalography, functional magnetic resonance imaging, multimodal, Neurofeedback, Real-time},
+  annote = {https://doi.org/10.3389/fnins.2017.00140}
+}
+
+@article{alegria_real-time_2017,
+  title = {Real-time {fMRI} neurofeedback in adolescents with attention deficit hyperactivity disorder},
+  volume = {38},
+  copyright = {© 2017 The Authors Human Brain Mapping Published by Wiley Periodicals, Inc.},
+  issn = {1097-0193},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23584},
+  doi = {10.1002/hbm.23584},
+  language = {en},
+  number = {6},
+  urldate = {2018-08-20},
+  journal = {Human Brain Mapping},
+  author = {Alegria, Analucia A. and Wulff, Melanie and Brinson, Helen and Barker, Gareth J. and Norman, Luke J. and Brandeis, Daniel and Stahl, Daniel and David, Anthony S. and Taylor, Eric and Giampietro, Vincent and Rubia, Katya},
+  month = jun,
+  year = {2017},
+  keywords = {ADHD, fMRI, fMRI-neurofeedback, real-time fMRI neurofeedback, stop task},
+  pages = {3190--3209}
+}
+
+@article{neyedli_increasing_2018,
+  series = {Neurofeedback and {Functional} {Enhancement}: {Mechanisms}, {Methodology}, {Behavioral} and {Clinical} {Applications}},
+  title = {Increasing {Lateralized} {Motor} {Activity} in {Younger} and {Older} {Adults} using {Real}-time {fMRI} during {Executed} {Movements}},
+  volume = {378},
+  issn = {0306-4522},
+  url = {http://www.sciencedirect.com/science/article/pii/S0306452217300933},
+  doi = {10.1016/j.neuroscience.2017.02.010},
+  urldate = {2018-08-20},
+  journal = {Neuroscience},
+  author = {Neyedli, Heather F. and Sampaio-Baptista, Cassandra and Kirkman, Matthew A. and Havard, David and Lührs, Michael and Ramsden, Katie and Flitney, David D. and Clare, Stuart and Goebel, Rainer and Johansen-Berg, Heidi},
+  month = may,
+  year = {2018},
+  keywords = {ageing, motor cortex, neurofeedback, real-time fMRI, stroke},
+  pages = {165--174}
+}
+
+@article{sokunbi_feedback_2017,
+  title = {Feedback of real-time {fMRI} signals: {From} concepts and principles to therapeutic interventions},
+  volume = {35},
+  issn = {0730-725X},
+  shorttitle = {Feedback of real-time {fMRI} signals},
+  url = {http://www.sciencedirect.com/science/article/pii/S0730725X16301096},
+  doi = {10.1016/j.mri.2016.08.004},
+  urldate = {2018-08-20},
+  journal = {Magnetic Resonance Imaging},
+  author = {Sokunbi, Moses O.},
+  month = jan,
+  year = {2017},
+  keywords = {Brain-computer interface, Clinical disorders, Feedback system, Neurofeedback, Real-time fMRI, Self-regulation},
+  pages = {117--124}
+}
+
+@article{monti_real-time_2017,
+  title = {Real-time estimation of dynamic functional connectivity networks},
+  volume = {38},
+  copyright = {© 2016 Wiley Periodicals, Inc.},
+  issn = {1097-0193},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23355},
+  doi = {10.1002/hbm.23355},
+  language = {en},
+  number = {1},
+  urldate = {2018-08-20},
+  journal = {Human Brain Mapping},
+  author = {Monti, Ricardo Pio and Lorenz, Romy and Braga, Rodrigo M. and Anagnostopoulos, Christoforos and Leech, Robert and Montana, Giovanni},
+  month = jan,
+  year = {2017},
+  keywords = {dynamic networks, functional connectivity, neurofeedback, real-time, streaming penalized optimization},
+  pages = {202--220}
+}
+
+@article{ramot_direct_2017preprint,
+  title = {Direct {Modulation} {Of} {Aberrant} {Brain} {Network} {Connectivity} {Through} {Real}-{Time} {NeuroFeedback}},
+  copyright = {© 2017, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/},
+  url = {https://www.biorxiv.org/content/early/2017/05/18/139824},
+  doi = {10.1101/139824},
+  language = {en},
+  urldate = {2018-08-20},
+  journal = {bioRxiv},
+  author = {Ramot, Michal and Kimmich, Sara and Gonzalez-Castillo, Javier and Roopchansingh, Vinai and Popal, Haroon and White, Emily and Gotts, Stephen J. and Martin, Alex},
+  month = may,
+  year = {2017},
+  pages = {139824}
+}
