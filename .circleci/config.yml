@@ -43,7 +43,7 @@ jobs:
     # This is based on your 1.0 configuration file or project settings
     - run:
         working_directory: ~/LewisPeacockLab/rtfin-lit
-        command: rm -f LewisPeacockLab/rtfin-lit/.rvmrc; echo 2.3.3 > LewisPeacockLab/rtfin-lit/.ruby-version; rvm use 2.3.3 --default
+        # command: rm -f LewisPeacockLab/rtfin-lit/.rvmrc; echo 2.3.3 > LewisPeacockLab/rtfin-lit/.ruby-version; rvm use 2.3.3 --default
     # Dependencies
     #   This would typically go in either a build or a build-and-test job when using workflows
     # Restore the dependency cache
