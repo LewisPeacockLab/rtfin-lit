@@ -28,8 +28,8 @@ jobs:
         - v1-dep-master-
         # Any branch if there are none on the default branch - this should be unnecessary if you have your default branch configured correctly
         - v1-dep-
-    - run: bundle update jekyll
     - run: bundle install
+    - run: bundle update jekyll
     - run: ./scripts/compile-bib-years.sh
     - run: bundle exec jekyll build
     # Save dependency cache
